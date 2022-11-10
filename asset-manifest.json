@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.4a2260a2.css",
-    "main.js": "/static/js/main.499b2ecd.js",
-    "static/media/DaftPunk.png": "/static/media/DaftPunk.86d30c73f2c185a2889f.png",
+    "main.css": "/static/css/main.8d408d20.css",
+    "main.js": "/static/js/main.1c82af9f.js",
+    "static/media/DaftPunk.png": "/static/media/DaftPunk.6f5878989027ebbb9a7d.png",
     "static/media/Questrial-Regular.ttf": "/static/media/Questrial-Regular.96dd668fc36d87af7f89.ttf",
     "static/media/Michroma-Regular.ttf": "/static/media/Michroma-Regular.c12a12d1198168c85097.ttf",
     "index.html": "/index.html",
-    "main.4a2260a2.css.map": "/static/css/main.4a2260a2.css.map",
-    "main.499b2ecd.js.map": "/static/js/main.499b2ecd.js.map"
+    "main.8d408d20.css.map": "/static/css/main.8d408d20.css.map",
+    "main.1c82af9f.js.map": "/static/js/main.1c82af9f.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a2260a2.css",
-    "static/js/main.499b2ecd.js"
+    "static/css/main.8d408d20.css",
+    "static/js/main.1c82af9f.js"
   ]
 }
